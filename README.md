@@ -11,7 +11,7 @@ Design a very simple and easy-to-use APP: Quit Smoking with Cai, by which I can 
 2. **Improvements** - Your health improvements
 3. **Tips** - tips can motivate you when you are craving.
 4. **Dairy** - write down whatever you want
-5. **Chat with AI** - chat whatever you want with AI's help
+5. **Chat with AI** - let AI help you whatever you need
 
 ![](./imgs/Quit%20Smoking%20with%20Cai.png)
 
