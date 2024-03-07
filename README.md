@@ -13,6 +13,9 @@ Design a very simple and easy-to-use APP: Quit Smoking with Cai, by which I can 
 4. **Dairy** - write down whatever you want
 5. **Chat with AI** - chat whatever you want with AI's help
 
+![](./imgs/Quit%20Smoking%20with%20Cai.png)
+
 # 3. Design(in progress)
+
 ### See status update in project: [build one-person unicorn with AI project](https://github.com/users/caiyongji/projects/1/views/1)
 
