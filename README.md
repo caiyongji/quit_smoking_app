@@ -22,13 +22,3 @@ Design a very simple and easy-to-use APP: Quit Smoking with Cai, by which I can 
 
 # 4. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
 [![click this image](./imgs/onepersonbusiness-logo.png)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
-
-
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
