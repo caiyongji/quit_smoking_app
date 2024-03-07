@@ -15,10 +15,16 @@ Design a very simple and easy-to-use APP: Quit Smoking with Cai, by which I can 
 
 ![](./imgs/Quit%20Smoking%20with%20Cai.png)
 
-# 3. Design(in progress)
+# 3. Design
 
-### See status update in project: [build one-person unicorn with AI project](https://github.com/users/caiyongji/projects/1/views/1)
+See each screen details in pdf: [./materials/QuitSmokingwithCai.pdf](./materials/QuitSmokingwithCai.pdf)
+
+![](./imgs/figma-design.png)
 
 
-# 4. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
+# 4. Development(in progress)
+
+
+
+# 5. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
 [![click this image](./imgs/onepersonbusiness-logo.png)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
