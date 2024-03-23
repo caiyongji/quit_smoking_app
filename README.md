@@ -22,9 +22,19 @@ See each screen details in pdf: [./materials/QuitSmokingwithCai.pdf](./materials
 ![](./imgs/figma-design.png)
 
 
-# 4. Development(in progress)
+# 4. Development
+## Frontend
+Flutter
+## Backend
+Firebase
+
+# 5. Publishment
+## iOS - App Store
+![](./imgs/iOS%20screenshots.png)
+
+## Android - Play Store(in progress...)
 
 
 
-# 5. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
+# 6. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
 [![click this image](./imgs/onepersonbusiness-logo.png)](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file)
