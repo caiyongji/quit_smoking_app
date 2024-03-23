@@ -25,9 +25,17 @@ See each screen details in pdf: [./materials/QuitSmokingwithCai.pdf](./materials
 # 4. Development
 ## Frontend
 Flutter
+```mermaid
+pie title Development Status
+    "TODOs": 0
+    "Done": 100
+```
 ## Backend
 Firebase
-
+pie title Development Status
+    "TODOs": 0
+    "Done": 100
+```
 # 5. Publishment
 ## iOS - App Store
 ![](./imgs/iOS%20screenshots.png)
