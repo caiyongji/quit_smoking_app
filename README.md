@@ -26,15 +26,16 @@ See each screen details in pdf: [./materials/QuitSmokingwithCai.pdf](./materials
 ## Frontend
 Flutter
 ```mermaid
-pie title Development Status
-    "TODOs": 0
-    "Done": 100
+pie title Frontend Development Status
+    "TODO ITEM": 0
+    "DONE ITEM": 100
 ```
 ## Backend
 Firebase
-pie title Development Status
-    "TODOs": 0
-    "Done": 100
+```mermaid
+pie title Backend Development Status
+    "TODO ITEM": 0
+    "DONE ITEM": 100
 ```
 # 5. Publishment
 ## iOS - App Store
