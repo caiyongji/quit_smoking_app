@@ -43,6 +43,8 @@ pie title Backend Development Status
 
 ## Android - Play Store(in progress...)
 
+Google Play Store: [https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai](https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai)
+
 
 
 # 6. See other projects in [one-person business with AI](https://github.com/caiyongji/one-person-business-with-AI?tab=readme-ov-file) 
