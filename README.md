@@ -41,7 +41,7 @@ pie title Backend Development Status
 ## iOS - App Store
 ![](./imgs/iOS%20screenshots.png)
 
-## Android - Play Store(in progress...)
+## Android - Play Store
 
 Google Play Store: [https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai](https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai)
 
