@@ -2,7 +2,10 @@
 # 1. Goal for 2024
 
 ## Help 100 people to quit smoking in 2024
-I‘ve successfully quit smoking since 04/10/2020 01:30. I feel physically lighter and mentally joyful.  I hope you can experience this sense of happiness just as I have. I believe this project can change many people's lives, truly helping others. Therefore, this is the most worthwhile thing for me to devote my energy to at the moment. My goal for 2024 is to **help 100 people successfully quit smoking**.
+I‘ve successfully quit smoking since 04/10/2020 01:30. I feel physically lighter and mentally joyful.  I hope you can experience this sense of happiness just as I have. I believe this project can change many people's lives, truly helping others. Therefore, this is the most worthwhile thing for me to devote my energy to at the moment. My goal for 2024 is to **help 100 people successfully quit smoking**.  
+## Google Play Store
+Google Play Store: [https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai](https://play.google.com/store/apps/details?id=com.caiyongji.quitsmokingwithcai.quitsmokingwithcai)
+## App store(app reviewing...)
 
 
 # 2. Plan
