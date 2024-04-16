@@ -38,7 +38,7 @@ pie title Backend Development Status
     "DONE ITEM": 100
 ```
 # 5. Publishment
-## iOS - App Store
+## iOS - App Store(App reviewing...)
 ![](./imgs/iOS%20screenshots.png)
 
 ## Android - Play Store
